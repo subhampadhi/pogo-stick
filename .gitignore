@@ -102,3 +102,39 @@ dist
 
 # TernJS port file
 .tern-port
+=======
+# Node.js
+node_modules/
+dist/
+build/
+*.log
+*.lock
+
+# TypeScript
+*.tsbuildinfo
+*.js.map
+
+# IDE/Editor specific files
+.vscode/
+*.code-workspace
+*.sublime-workspace
+*.sublime-project
+*.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*.bak
+*.tmp
+*.tmp.*
+*.log
+*.dat
+*.out
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
